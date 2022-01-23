@@ -1,0 +1,17 @@
+.showcase {
+  background-color: royalblue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.goods-item {
+  height: 600px;
+  width: 300px;
+  border: 1px solid #000;
+  margin: 50px;
+  background-color: #4f565f;
+}
+/*# sourceMappingURL=style.css.map */
