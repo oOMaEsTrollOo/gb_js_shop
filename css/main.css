@@ -1,4 +1,4 @@
-.showcase {
+showcase {
   background-color: royalblue;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -7,11 +7,11 @@
       flex-wrap: wrap;
 }
 
-.goods-item {
+goods-item {
   height: 600px;
   width: 300px;
   border: 1px solid #000;
   margin: 50px;
   background-color: #4f565f;
 }
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=main.css.map */
